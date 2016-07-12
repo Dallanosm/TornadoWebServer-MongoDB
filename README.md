@@ -1,2 +1,2 @@
-# tornadoAPI-MongoDB
-Connection example between tornado and mongo.
+# TornadoWebServer - MongoDB
+Connection example between Tornado Web Server and MongoDB.
